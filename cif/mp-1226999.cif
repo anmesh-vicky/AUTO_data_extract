@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Ce2Ga3Cu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.46063164
+_cell_length_b   4.46063164
+_cell_length_c   7.35475184
+_cell_angle_alpha   90.00662612
+_cell_angle_beta   89.99337388
+_cell_angle_gamma   119.99782391
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Ga3Cu
+_chemical_formula_sum   'Ce2 Ga3 Cu1'
+_cell_volume   126.73626268
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  -0.000002  0.000002  0.733231  1
+  Ce  Ce1  1  0.999994  0.000006  0.260662  1
+  Ga  Ga2  1  0.333343  0.666657  0.486160  1
+  Ga  Ga3  1  0.333399  0.666601  0.030599  1
+  Ga  Ga4  1  0.666603  0.333397  0.961293  1
+  Cu  Cu5  1  0.666664  0.333336  0.528055  1

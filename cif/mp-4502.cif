@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ta6Si7Ni16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94259291
+_cell_length_b   7.94259255
+_cell_length_c   7.94259292
+_cell_angle_alpha   60.00000261
+_cell_angle_beta   60.00000413
+_cell_angle_gamma   60.00000126
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta6Si7Ni16
+_chemical_formula_sum   'Ta6 Si7 Ni16'
+_cell_volume   354.30062669
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.202841  0.797160  0.797160  1
+  Ta  Ta1  1  0.202841  0.797160  0.202841  1
+  Ta  Ta2  1  0.797160  0.202841  0.797160  1
+  Ta  Ta3  1  0.202841  0.202841  0.797160  1
+  Ta  Ta4  1  0.797160  0.797160  0.202841  1
+  Ta  Ta5  1  0.797160  0.202841  0.202841  1
+  Si  Si6  1  0.500000  0.500000  0.500000  1
+  Si  Si7  1  0.500000  -0.000000  0.500000  1
+  Si  Si8  1  -0.000000  0.500000  -0.000000  1
+  Si  Si9  1  -0.000000  0.500000  0.500000  1
+  Si  Si10  1  0.500000  0.500000  -0.000000  1
+  Si  Si11  1  -0.000000  -0.000000  0.500000  1
+  Si  Si12  1  0.500000  -0.000000  -0.000000  1
+  Ni  Ni13  1  0.832834  0.832834  0.501500  1
+  Ni  Ni14  1  0.501500  0.832834  0.832834  1
+  Ni  Ni15  1  0.832834  0.501500  0.832834  1
+  Ni  Ni16  1  0.498500  0.167166  0.167166  1
+  Ni  Ni17  1  0.167166  0.498500  0.167166  1
+  Ni  Ni18  1  0.167166  0.167166  0.498500  1
+  Ni  Ni19  1  0.832834  0.832834  0.832834  1
+  Ni  Ni20  1  0.383327  0.383327  0.383327  1
+  Ni  Ni21  1  0.616673  0.616673  0.149982  1
+  Ni  Ni22  1  0.149982  0.616673  0.616673  1
+  Ni  Ni23  1  0.616673  0.149982  0.616673  1
+  Ni  Ni24  1  0.850018  0.383327  0.383327  1
+  Ni  Ni25  1  0.383327  0.850018  0.383327  1
+  Ni  Ni26  1  0.383327  0.383327  0.850018  1
+  Ni  Ni27  1  0.616673  0.616673  0.616673  1
+  Ni  Ni28  1  0.167166  0.167166  0.167166  1

@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Hf6Fe16Si7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.06247637
+_cell_length_b   8.06089194
+_cell_length_c   8.06154300
+_cell_angle_alpha   59.99354786
+_cell_angle_beta   59.99486437
+_cell_angle_gamma   59.98658773
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf6Fe16Si7
+_chemical_formula_sum   'Hf6 Fe16 Si7'
+_cell_volume   370.40143437
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.204723  0.204609  0.795328  1
+  Hf  Hf1  1  0.795350  0.204606  0.204832  1
+  Hf  Hf2  1  0.204612  0.795441  0.795205  1
+  Hf  Hf3  1  0.795211  0.795292  0.204744  1
+  Hf  Hf4  1  0.795363  0.204600  0.795200  1
+  Hf  Hf5  1  0.204641  0.795407  0.204759  1
+  Fe  Fe6  1  0.621117  0.136804  0.621051  1
+  Fe  Fe7  1  0.473486  0.175370  0.175527  1
+  Fe  Fe8  1  0.378950  0.378909  0.863165  1
+  Fe  Fe9  1  0.175544  0.175421  0.175587  1
+  Fe  Fe10  1  0.175463  0.473435  0.175522  1
+  Fe  Fe11  1  0.824517  0.824607  0.526571  1
+  Fe  Fe12  1  0.621066  0.621108  0.136814  1
+  Fe  Fe13  1  0.824589  0.526555  0.824463  1
+  Fe  Fe14  1  0.824474  0.824577  0.824345  1
+  Fe  Fe15  1  0.175520  0.175404  0.473429  1
+  Fe  Fe16  1  0.621110  0.621073  0.620984  1
+  Fe  Fe17  1  0.863197  0.378905  0.379008  1
+  Fe  Fe18  1  0.378880  0.378938  0.379019  1
+  Fe  Fe19  1  0.378893  0.863177  0.378976  1
+  Fe  Fe20  1  0.526604  0.824634  0.824430  1
+  Fe  Fe21  1  0.136760  0.621134  0.621023  1
+  Si  Si22  1  0.500031  -0.000051  -0.000026  1
+  Si  Si23  1  0.500047  0.000005  0.500010  1
+  Si  Si24  1  0.500126  0.499979  0.499908  1
+  Si  Si25  1  0.999863  0.500013  0.000027  1
+  Si  Si26  1  0.500062  0.500002  0.000013  1
+  Si  Si27  1  -0.000119  0.000014  0.500023  1
+  Si  Si28  1  0.999919  0.500031  0.500061  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zr3TiMn8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.86839307
+_cell_length_b   4.86828922
+_cell_length_c   8.16050404
+_cell_angle_alpha   90.00223391
+_cell_angle_beta   89.99862727
+_cell_angle_gamma   119.92922988
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr3TiMn8
+_chemical_formula_sum   'Zr3 Ti1 Mn8'
+_cell_volume   167.61731806
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.333356  0.666645  0.441797  1
+  Zr  Zr1  1  0.333335  0.666666  0.063675  1
+  Zr  Zr2  1  0.666659  0.333353  0.931208  1
+  Ti  Ti3  1  0.666682  0.333328  0.563554  1
+  Mn  Mn4  1  0.000005  0.999978  0.501386  1
+  Mn  Mn5  1  0.000007  0.999976  0.999907  1
+  Mn  Mn6  1  0.169085  0.338344  0.745817  1
+  Mn  Mn7  1  0.169188  0.830813  0.745744  1
+  Mn  Mn8  1  0.661657  0.830916  0.745816  1
+  Mn  Mn9  1  0.829634  0.659197  0.253669  1
+  Mn  Mn10  1  0.829591  0.170415  0.253757  1
+  Mn  Mn11  1  0.340803  0.170369  0.253670  1

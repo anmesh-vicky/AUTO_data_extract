@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ge2N2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02655744
+_cell_length_b   8.39755409
+_cell_length_c   5.33911530
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   62.18380670
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ge2N2O
+_chemical_formula_sum   'Ge8 N8 O4'
+_cell_volume   238.98149173
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.287756  0.271838  0.181353  1
+  Ge  Ge1  1  0.243670  0.653066  0.213614  1
+  Ge  Ge2  1  0.152673  0.465327  0.752487  1
+  Ge  Ge3  1  0.205831  0.948019  0.846516  1
+  Ge  Ge4  1  0.652674  0.034673  0.252487  1
+  Ge  Ge5  1  0.705831  0.551981  0.346516  1
+  Ge  Ge6  1  0.787756  0.228162  0.681353  1
+  Ge  Ge7  1  0.743670  0.846934  0.713614  1
+  N  N8  1  0.240396  0.460532  0.039072  1
+  N  N9  1  0.111383  0.286986  0.571518  1
+  N  N10  1  0.369526  0.600630  0.461638  1
+  N  N11  1  0.611383  0.213014  0.071518  1
+  N  N12  1  0.397674  0.808203  0.938592  1
+  N  N13  1  0.740396  0.039468  0.539072  1
+  N  N14  1  0.897674  0.691797  0.438592  1
+  N  N15  1  0.869526  0.899370  0.961638  1
+  O  O16  1  0.155904  0.135088  0.028255  1
+  O  O17  1  0.335188  0.958694  0.466953  1
+  O  O18  1  0.655904  0.364912  0.528255  1
+  O  O19  1  0.835188  0.541306  0.966953  1

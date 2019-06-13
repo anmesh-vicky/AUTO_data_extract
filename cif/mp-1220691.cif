@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Nb2CuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.38653110
+_cell_length_b   3.38661234
+_cell_length_c   13.23894025
+_cell_angle_alpha   90.00002233
+_cell_angle_beta   89.99928943
+_cell_angle_gamma   59.99922144
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb2CuS4
+_chemical_formula_sum   'Nb2 Cu1 S4'
+_cell_volume   131.49250575
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.333313  0.333344  0.751912  1
+  Nb  Nb1  1  0.666688  0.666656  0.248602  1
+  Cu  Cu2  1  0.333383  0.333309  0.534392  1
+  S  S3  1  0.333347  0.333326  0.367475  1
+  S  S4  1  0.666665  0.666668  0.630192  1
+  S  S5  1  0.666647  0.666677  0.867148  1
+  S  S6  1  0.333358  0.333321  0.134279  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Nb3Fe8Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.78356367
+_cell_length_b   4.78356294
+_cell_length_c   7.77386221
+_cell_angle_alpha   89.99968257
+_cell_angle_beta   90.00034069
+_cell_angle_gamma   119.99565501
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb3Fe8Si
+_chemical_formula_sum   'Nb3 Fe8 Si1'
+_cell_volume   154.05987275
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.333311  0.666688  0.445033  1
+  Nb  Nb1  1  0.333339  0.666660  0.068139  1
+  Nb  Nb2  1  0.666617  0.333384  0.915758  1
+  Fe  Fe3  1  0.000087  0.999912  0.501969  1
+  Fe  Fe4  1  0.999969  0.000032  0.009044  1
+  Fe  Fe5  1  0.168410  0.336749  0.749989  1
+  Fe  Fe6  1  0.168394  0.831606  0.749970  1
+  Fe  Fe7  1  0.663251  0.831590  0.749989  1
+  Fe  Fe8  1  0.830239  0.660516  0.252803  1
+  Fe  Fe9  1  0.830242  0.169758  0.252898  1
+  Fe  Fe10  1  0.339483  0.169761  0.252803  1
+  Si  Si11  1  0.666658  0.333343  0.551606  1

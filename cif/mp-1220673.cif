@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Nb3Cr8Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.84938732
+_cell_length_b   4.84910430
+_cell_length_c   7.95927949
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00470097
+_cell_angle_gamma   60.00192455
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb3Cr8Si
+_chemical_formula_sum   'Nb3 Cr8 Si1'
+_cell_volume   162.09185969
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.666667  0.666667  0.444661  1
+  Nb  Nb1  1  0.666687  0.666657  0.059618  1
+  Nb  Nb2  1  0.333323  0.333338  0.932632  1
+  Cr  Cr3  1  -0.000094  0.000047  0.499496  1
+  Cr  Cr4  1  -0.000085  0.000042  0.000579  1
+  Cr  Cr5  1  0.831133  0.337785  0.746445  1
+  Cr  Cr6  1  0.337806  0.831097  0.746431  1
+  Cr  Cr7  1  0.831133  0.831082  0.746445  1
+  Cr  Cr8  1  0.171231  0.657562  0.253422  1
+  Cr  Cr9  1  0.657579  0.171211  0.253468  1
+  Cr  Cr10  1  0.171231  0.171207  0.253422  1
+  Si  Si11  1  0.333390  0.333305  0.563380  1

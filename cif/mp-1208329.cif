@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ti20(CoB2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.34246856
+_cell_length_b   8.34246856
+_cell_length_c   8.34246856
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti20(CoB2)3
+_chemical_formula_sum   'Ti20 Co3 B6'
+_cell_volume   410.55253483
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.623679  0.623679  0.623679  1
+  Ti  Ti1  1  0.376321  0.376321  0.376321  1
+  Ti  Ti2  1  0.128962  0.623679  0.623679  1
+  Ti  Ti3  1  0.623679  0.128962  0.623679  1
+  Ti  Ti4  1  0.871038  0.376321  0.376321  1
+  Ti  Ti5  1  0.376321  0.871038  0.376321  1
+  Ti  Ti6  1  0.623679  0.623679  0.128962  1
+  Ti  Ti7  1  0.376321  0.376321  0.871038  1
+  Ti  Ti8  1  0.000000  -0.000000  0.665367  1
+  Ti  Ti9  1  -0.000000  0.000000  0.334633  1
+  Ti  Ti10  1  0.334633  0.665367  0.000000  1
+  Ti  Ti11  1  0.665367  0.334633  -0.000000  1
+  Ti  Ti12  1  -0.000000  0.665367  0.000000  1
+  Ti  Ti13  1  0.665367  0.000000  0.334633  1
+  Ti  Ti14  1  0.000000  0.334633  -0.000000  1
+  Ti  Ti15  1  0.334633  -0.000000  0.665367  1
+  Ti  Ti16  1  0.665367  0.000000  -0.000000  1
+  Ti  Ti17  1  0.334633  -0.000000  0.000000  1
+  Ti  Ti18  1  0.000000  0.665367  0.334633  1
+  Ti  Ti19  1  -0.000000  0.334633  0.665367  1
+  Co  Co20  1  0.750000  0.750000  0.750000  1
+  Co  Co21  1  0.250000  0.250000  0.250000  1
+  Co  Co22  1  -0.000000  -0.000000  0.000000  1
+  B  B23  1  0.719703  0.719703  0.280297  1
+  B  B24  1  0.280297  0.280297  0.719703  1
+  B  B25  1  0.719703  0.280297  0.719703  1
+  B  B26  1  0.280297  0.719703  0.280297  1
+  B  B27  1  0.280297  0.719703  0.719703  1
+  B  B28  1  0.719703  0.280297  0.280297  1

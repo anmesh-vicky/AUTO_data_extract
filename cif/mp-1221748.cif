@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mn8Nb3Al
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.77116366
+_cell_length_b   4.77265577
+_cell_length_c   7.87832407
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99326977
+_cell_angle_gamma   59.98965431
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn8Nb3Al
+_chemical_formula_sum   'Mn8 Nb3 Al1'
+_cell_volume   155.34726432
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.999935  0.000032  0.500884  1
+  Mn  Mn1  1  0.999710  0.000145  0.008095  1
+  Mn  Mn2  1  0.828643  0.342790  0.748158  1
+  Mn  Mn3  1  0.342707  0.828647  0.748282  1
+  Mn  Mn4  1  0.828643  0.828567  0.748158  1
+  Mn  Mn5  1  0.173591  0.652918  0.251156  1
+  Mn  Mn6  1  0.653083  0.173458  0.251082  1
+  Mn  Mn7  1  0.173591  0.173491  0.251156  1
+  Nb  Nb8  1  0.666698  0.666651  0.443127  1
+  Nb  Nb9  1  0.666703  0.666648  0.065254  1
+  Nb  Nb10  1  0.333305  0.333347  0.922741  1
+  Al  Al11  1  0.333390  0.333305  0.561907  1

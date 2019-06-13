@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf3GeMo8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35721191
+_cell_length_b   5.35704703
+_cell_length_c   8.60395540
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99069045
+_cell_angle_gamma   60.00101803
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3GeMo8
+_chemical_formula_sum   'Hf3 Ge1 Mo8'
+_cell_volume   213.84421906
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.666596  0.666702  0.441536  1
+  Hf  Hf1  1  0.666673  0.666663  0.061722  1
+  Hf  Hf2  1  0.333374  0.333313  0.939554  1
+  Ge  Ge3  1  0.333397  0.333302  0.564797  1
+  Mo  Mo4  1  0.000092  0.999954  0.498300  1
+  Mo  Mo5  1  0.000092  0.999954  0.997528  1
+  Mo  Mo6  1  0.828694  0.342552  0.747204  1
+  Mo  Mo7  1  0.342458  0.828771  0.747304  1
+  Mo  Mo8  1  0.828694  0.828754  0.747204  1
+  Mo  Mo9  1  0.170543  0.658853  0.251631  1
+  Mo  Mo10  1  0.658844  0.170578  0.251590  1
+  Mo  Mo11  1  0.170543  0.170604  0.251631  1

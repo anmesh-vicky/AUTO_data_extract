@@ -40,7 +40,7 @@ if len_ !=0:
 L = []
 M = []
 c = 0
-for x  in range(len_*20,len_*20+20):
+for x  in range(len_*10,len_*10+10):
  try:
      xu_cif = CIFFile("cif/"+task_id[x]+".cif")
      xu_crystal = Crystal(name="XRD" ,lat=xu_cif.SGLattice())
@@ -48,7 +48,7 @@ for x  in range(len_*20,len_*20+20):
      pm = xru.simpack.PowderModel(powder,I0=100)
      intensities = pm.simulate(two_theta)
      M.append(intensities)
-     print(np.shape(M))
+     # print(np.shape(M))
      pm.close()
  except ValueError:
      print("some_error")
@@ -82,8 +82,7 @@ df_x_s=df_x.append(df_x_)
 
 
 df_x_s.to_csv("final_data_x.csv") 
-
-
+print("row_no"+str(x))
 # In[76]:
 
 
